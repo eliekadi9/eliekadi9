@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Elie Kadi </h1>
-<p>A passionate Bachelor of Computer Science student at Flinders University   </p>
+<p>I am a motivated and dedicated third-year Computer Science student at Flinders University, with a strong academic foundation and a passion for Software Engineering, Cybersecurity and Web Development. Having completed my education at Sacred Heart College and nearing the completion of my bachelor's degree, I aspire to pursue a Master’s degree in Cybersecurity.
+
+I am eager to apply my technical expertise and problem-solving skills to tackle real-world challenges and drive innovation. Committed to expanding my knowledge and gaining hands-on experience in software development, cybersecurity, web technologies, and innovative solutions, my career goal is to contribute to impactful projects while continuously learning and growing as a professional in these fields.   </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
